@@ -50,7 +50,7 @@ Reset:
     Can be used to unstage a file.
 ---
 ## 7- What is the difference between git merge and git rebase commands?
-* The merge command creates a new commit but the rebase command integrate the changes in the repository remote respectively  
+* The merge command creates a new commit but the rebase command integrate the changes in the remote repository respectively  
 ---
 ## 8- What command is used to see the history of commites? 
 * We have to use the git log command 
