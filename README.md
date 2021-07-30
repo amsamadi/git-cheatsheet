@@ -78,6 +78,8 @@ Syntax:
 ---
 ## 12- What are the branches used for and how can they be integrated? 
 * In Git, branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug no matter how big or how small you spawn a new branch to encapsulate your changes. Merging takes your branch changes and implements them into the main branch
+--
+###### [@dwsclass](https://github.com/dwsclass)dws-dev-004-git
 
 
 
